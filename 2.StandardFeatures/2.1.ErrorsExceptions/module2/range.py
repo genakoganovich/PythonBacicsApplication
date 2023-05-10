@@ -16,5 +16,6 @@ class RandomIterator:
         else:
             raise StopIteration
 
+
 for x in RandomIterator(10):
     print(x)
