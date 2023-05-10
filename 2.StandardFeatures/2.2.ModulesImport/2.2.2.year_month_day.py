@@ -1,8 +1,5 @@
+import redirect
 import datetime
-import sys
-
-sys.stdin = open("input.txt", "r")
-
 
 date = datetime.date(*map(int, input().split()))
 days = int(input())
