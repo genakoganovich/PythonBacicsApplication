@@ -13,9 +13,9 @@ def test():
 
     for password in read_passwords():
         try:
-            print(decrypt(password, encrypted))
+            print(decrypt(password, encrypted).decode('utf8'))
         except DecryptionException:
-            print('{} is a  bad password'.format(password))
+            print('{} is a bad password'.format(password))
 
 
 test()
