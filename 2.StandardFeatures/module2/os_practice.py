@@ -4,5 +4,5 @@ import shutil
 
 shutil.copytree("tests", "tests/tests")
 
-for current_dir, dirs, files in os.walk("."):
+for current_dir, dirs, files in os.walk(""):
     print(current_dir, dirs, files)
