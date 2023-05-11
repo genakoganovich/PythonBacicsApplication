@@ -1,0 +1,12 @@
+abababa
+aba
+3
+abababa
+abc
+0
+abc
+abc
+1
+aaaaa
+a
+5
