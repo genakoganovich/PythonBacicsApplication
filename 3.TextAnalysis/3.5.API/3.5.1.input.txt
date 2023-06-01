@@ -1,0 +1,11 @@
+Пример входного файла:
+31
+999
+1024
+502
+
+﻿Пример выходного файла:
+Interesting
+Boring
+Interesting
+Boring
