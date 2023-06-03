@@ -1,0 +1,1 @@
+<cube id="0" color="blue"><cube id="1" color="red"><cube id="2" color="green"></cube></cube><cube id="3" color="red"></cube></cube>

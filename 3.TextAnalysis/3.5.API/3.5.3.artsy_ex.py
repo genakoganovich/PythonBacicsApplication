@@ -3,8 +3,8 @@ import requests
 
 def get_headers():
 
-    client_id = '461c823454c31d1e69ee'
-    client_secret = '043ff9d54db2a49fc59ea3db57c06b7f'
+    client_id = ''
+    client_secret = ''
 
     # инициируем запрос на получение токена
     r = requests.post("https://api.artsy.net/api/tokens/xapp_token",
